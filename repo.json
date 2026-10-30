@@ -3,7 +3,7 @@
     "Author": "Vain09",
     "Name": "PhysBone Studio",
     "InternalName": "PhysBoneStudio",
-    "AssemblyVersion": "0.9.0.0",
+    "AssemblyVersion": "0.9.1.0",
     "Description": "Unity/VRChat-style PhysBone editor for FFXIV: preview any character, gear, hair or Penumbra mod mesh with its bones and physics, author new bone chains with automatic weights, and export native .phyb physics as a Penumbra mod.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -14,13 +14,13 @@
     "Punchline": "PhysBones for FFXIV, exported as native physics.",
     "AcceptsFeedback": true,
     "RepoUrl": "https://github.com/Vain09/Phys11-plugin",
-    "TestingAssemblyVersion": "0.9.0.0",
+    "TestingAssemblyVersion": "0.9.1.0",
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Vain09/Phys11-plugin/main/download/PhysBoneStudio.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Vain09/Phys11-plugin/main/download/PhysBoneStudio.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Vain09/Phys11-plugin/main/download/PhysBoneStudio.zip",
-    "LastUpdate": 1793310514,
+    "LastUpdate": 1793388572,
     "DownloadCount": 0
   }
 ]
